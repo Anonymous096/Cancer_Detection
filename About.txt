@@ -1,0 +1,5 @@
+				Cancer Prediction Machine Learning Model
+
+I took the data of breast cancer from kaggle.com from here you can find tremendous amount of Dataset in every field such as Breast cancer, Diabetes and many more.
+The dataset of the patient are around 570 people some having Breast cancer and some didn't
+Here Malignant means that the person may have Cancer and Benign means that the person didn't have Cancer.
